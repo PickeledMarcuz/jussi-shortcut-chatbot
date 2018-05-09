@@ -1,0 +1,27 @@
+{
+  "name": "jussi-nodejs",
+  "version": "1.0.0",
+  "description": "Chat bot for the shortcut based on basic knowledge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheShortcut",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "restify": "^7.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammieli/jussi-the-chatbot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "bugs": {
+    "url": "https://github.com/sammieli/jussi-the-chatbot/issues"
+  },
+  "homepage": "https://github.com/sammieli/jussi-the-chatbot#readme"
+}
